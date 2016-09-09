@@ -1,0 +1,15 @@
+{
+  "name": "example-node-script",
+  "version": "1.0.0",
+  "description": "An example Node.js script that consumes GitHub APIs.",
+  "main": "github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hung BCP @AsianTechInc",
+  "license": "MIT",
+  "dependencies": {
+    "parse-link-header": "^0.4.1",
+    "xhr2": "^0.1.3"
+  }
+}
